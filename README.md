@@ -23,5 +23,5 @@
 ```
 ## 5.
 ```
-    Finished
+    brew update
 ```
